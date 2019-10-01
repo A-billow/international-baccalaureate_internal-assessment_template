@@ -32,4 +32,12 @@ Summarize your discussion with the client about their problem. Include details o
 Who is the adviser and why did you select them?
 What is your proposed product? Explain how the product is an appropriate solution to the client's problem. ]
 
-## Interveiw Notes 
+## Interveiw Notes (will redo eventually)
+- MAKE A TITLE
+-client is myself 
+- could not find many games of this Genre  and wanted to make one
+- find an advisor!
+- What coding language?
+- need to stop procrastinating
+- attempt to meet with Tristian - dont want to fall behind
+- 
