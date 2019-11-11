@@ -1,10 +1,10 @@
 
 # WIP
 ## Problem Question
-I want to make a decision making game where you can become many different types of rulers
+ ???
 
 ## Project Desription
-My client is me and anyone else who enjoys playing choose your own adventure/ decision making games  (and also if you want to take over a country/ world) I plan to make a game about it
+My client is
 ### Project Timeline
     (month 0-1)
 - Finish coming up with ideas, start coding?
