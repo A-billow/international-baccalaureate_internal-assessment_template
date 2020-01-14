@@ -34,8 +34,6 @@ What is your proposed product? Explain how the product is an appropriate solutio
 
 ## Interveiw Notes (will redo eventually)
 - MAKE A TITLE
--client is myself 
-- could not find many games of this Genre  and wanted to make one
 - find an advisor!
 - What coding language?
 - need to stop procrastinating
